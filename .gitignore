@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Credenciais e perfis de navegador
+.env.*
+chrome-profile/
+edge-profile/
+selenium-profile/
+
+# Downloads e produtos intermediários
+pdfs/
+pdfs_*/
+downloads_*/
+output/
+outputs/
+downloads_brutos/
+corpus_deduplicado/
+sem_doi/
+relatorios_deduplicacao/
+_state/
+_logs/
+_reports/
+
+# Logs/relatórios gerados
+*.log
+download_log*.csv
+resultado_downloads.csv
+links_pendentes_mdpi.html
+links_pendentes_mdpi.csv
+report_*.csv
+report_*.xlsx
+relatorio_*.csv
+relatorio_*.json
+
+# Downloads temporários de navegadores
+*.crdownload
+*.part

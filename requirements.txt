@@ -1,0 +1,10 @@
+# Ambiente de referência do repositório.
+# Python recomendado: 3.13.x (preparação validada com Python 3.13.5).
+pandas==2.2.3
+requests==2.32.5
+beautifulsoup4==4.14.3
+selenium==4.35.0
+tqdm==4.67.3
+openpyxl==3.1.5
+PyMuPDF==1.26.7
+urllib3==2.7.0
